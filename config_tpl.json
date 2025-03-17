@@ -1,17 +1,16 @@
 {
     "account_id": "your_account_id",
-    "email": "your_email",
-    "api_key": "your_api_key",
+    "token": "your_token",
     "virtual_networks": [
         {
             "name": "your_virtual_network_name",
-            "comment": "your_virtual_network_comment"
-        }
-    ],
-    "ip_urls": [
-        {
-            "url": "https://raw.githubusercontent.com/Loyalsoldier/geoip/refs/heads/release/text/cn.txt",
-            "ipv6": true
+            "comment": "your_virtual_network_comment",
+            "ip_urls": [
+                {
+                    "url": "https://raw.githubusercontent.com/Loyalsoldier/geoip/refs/heads/release/text/cn.txt",
+                    "ipv6": true
+                }
+            ]
         }
     ]
 }
