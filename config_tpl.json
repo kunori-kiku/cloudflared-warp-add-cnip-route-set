@@ -1,0 +1,11 @@
+{
+    "account_id": "your_account_id",
+    "email": "your_email",
+    "api_key": "your_api_key",
+    "virtual_networks": [
+        {
+            "name": "your_virtual_network_name",
+            "comment": "your_virtual_network_comment"
+        }
+    ]
+}
