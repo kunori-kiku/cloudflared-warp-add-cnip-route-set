@@ -7,5 +7,11 @@
             "name": "your_virtual_network_name",
             "comment": "your_virtual_network_comment"
         }
+    ],
+    "ip_urls": [
+        {
+            "url": "https://raw.githubusercontent.com/Loyalsoldier/geoip/refs/heads/release/text/cn.txt",
+            "ipv6": true
+        }
     ]
 }
